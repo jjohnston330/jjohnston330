@@ -1,9 +1,9 @@
 ## Hi there 👋
 # My Name is Jaden Johnston 
-### My Intended major is Computer Science (CSBS)
-# I plan to work on these 2 projects this semester:
-    - 
-    - 
+#### My Intended major is Computer Science (CSBS)
+### I plan to work on these 2 projects this semester:
+    - Create an informative github landing page for myself that aligns with myself and the work that I will be doing in the future.
+    - Be able to create and understand code in assembly.
 
 <!--
 **jjohnston330/jjohnston330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
