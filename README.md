@@ -1,6 +1,6 @@
 ## Hi there 👋
 # My Name is Jaden Johnston 
-# My Intended major is Computer Science (CSBS)
+### My Intended major is Computer Science (CSBS)
 # I plan to work on these 2 projects this semester:
     - 
     - 
