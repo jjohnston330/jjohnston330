@@ -1,4 +1,9 @@
 ## Hi there 👋
+My Name is Jaden Johnston 
+My Intended major is Computer Science (CSBS)
+I plan to work on these 2 projects this semester:
+    - 
+    - 
 
 <!--
 **jjohnston330/jjohnston330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
