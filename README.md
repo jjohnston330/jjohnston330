@@ -1,6 +1,7 @@
 ## Hi there 👋 - I'm Jaden Johnston
 
 🎓 Sophomore at Wright State University. 
+
 💻 My intended major is **Computer Science** (CSBS)
 
 I am relatively new to coding, but I have experience in creating java projects as well as simple games that utilize Java. I also develop linux VM's with the purpose of running minecraft servers. This page will hold all of my current and future projects with things that I enjoy doing!
